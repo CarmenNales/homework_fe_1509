@@ -1,3 +1,5 @@
+import React from 'react';
+
 function Tile({image, title, p_text}) {
 
     // Check if Tile is an image-Tile

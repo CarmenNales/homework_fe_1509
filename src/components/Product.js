@@ -1,3 +1,5 @@
+import React from 'react';
+
 function Product({tag, image, title, price}) {
 
     // Return Product component
